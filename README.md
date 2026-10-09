@@ -1,7 +1,7 @@
 # FinRisk AI: AI-Powered Financial Risk Intelligence & Stress Testing Platform - S&P Global & Crisil Campus Hackathon
 
 **Candidate Name:** Hima Agarwal
-**College Email ID:** [your_id@vitbhopal.ac.in]
+**College Email ID:** [hima.24bce10633@vitbhopal.ac.in]
 **College / Campus:** VIT Bhopal University
 **Demo Video Link:** [paste YouTube unlisted link here]
 **Slide Deck Link (if hosted externally):** [paste link here, or see `docs/presentation.pdf`]
