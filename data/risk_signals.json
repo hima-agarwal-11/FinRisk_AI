@@ -1,0 +1,335 @@
+[
+  {
+    "company": "HDFC Bank",
+    "headline": "RBI imposes strict new lending norms on private banks; penalties announced for non-compliance",
+    "sentiment_score": 3.1,
+    "event_type": "Regulatory",
+    "impact_score": 5.8,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": false,
+    "severity_keywords": [
+      "penalties"
+    ],
+    "impact_breakdown": {
+      "event_weight": 8,
+      "sentiment_extremity": 5.3,
+      "keyword_severity": 3
+    }
+  },
+  {
+    "company": "Reliance Industries",
+    "headline": "Reliance announces record quarterly profit as revenue jumps 18% year on year",
+    "sentiment_score": 9.3,
+    "event_type": "Financial Performance",
+    "impact_score": 3.5,
+    "sentiment_label": "Positive",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 5,
+      "sentiment_extremity": 4.2,
+      "keyword_severity": 0
+    }
+  },
+  {
+    "company": "Tata Motors",
+    "headline": "Tata Motors launches new electric SUV with 500 km range at competitive price",
+    "sentiment_score": 7.7,
+    "event_type": "Product Launch",
+    "impact_score": 2.1,
+    "sentiment_label": "Positive",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 3,
+      "sentiment_extremity": 2.5,
+      "keyword_severity": 0
+    }
+  },
+  {
+    "company": "Infosys",
+    "headline": "Infosys to acquire European consulting firm in .2 billion all-cash deal",
+    "sentiment_score": 6.6,
+    "event_type": "Merger/Acquisition",
+    "impact_score": 2.8,
+    "sentiment_label": "Positive",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 6,
+      "sentiment_extremity": 1.2,
+      "keyword_severity": 0
+    }
+  },
+  {
+    "company": "Adani Group",
+    "headline": "SEBI launches investigation into Adani Group over alleged market manipulation",
+    "sentiment_score": 2.5,
+    "event_type": "Regulatory",
+    "impact_score": 7.3,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": true,
+    "severity_keywords": [
+      "investigation",
+      "manipulation"
+    ],
+    "impact_breakdown": {
+      "event_weight": 8,
+      "sentiment_extremity": 6.7,
+      "keyword_severity": 7
+    }
+  },
+  {
+    "company": "Indian Economy",
+    "headline": "RBI raises repo rate by 50 basis points as inflation surges beyond forecast",
+    "sentiment_score": 4.9,
+    "event_type": "Macroeconomic",
+    "impact_score": 4.1,
+    "sentiment_label": "Neutral",
+    "stress_test_triggered": false,
+    "severity_keywords": [
+      "surges"
+    ],
+    "impact_breakdown": {
+      "event_weight": 8,
+      "sentiment_extremity": 1.3,
+      "keyword_severity": 2
+    }
+  },
+  {
+    "company": "Global Markets",
+    "headline": "Military conflict escalates in Middle East; oil prices spike and global markets crash",
+    "sentiment_score": 1.4,
+    "event_type": "Geopolitical",
+    "impact_score": 9.3,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": true,
+    "severity_keywords": [
+      "conflict",
+      "crash",
+      "escalates",
+      "military",
+      "spike"
+    ],
+    "impact_breakdown": {
+      "event_weight": 9,
+      "sentiment_extremity": 9.2,
+      "keyword_severity": 10
+    }
+  },
+  {
+    "company": "Maruti Suzuki",
+    "headline": "Maruti Suzuki halts production at two plants due to semiconductor shortage",
+    "sentiment_score": 2.3,
+    "event_type": "Supply Chain",
+    "impact_score": 6.2,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": false,
+    "severity_keywords": [
+      "halts",
+      "shortage"
+    ],
+    "impact_breakdown": {
+      "event_weight": 6,
+      "sentiment_extremity": 7.2,
+      "keyword_severity": 5
+    }
+  },
+  {
+    "company": "Wipro",
+    "headline": "Wipro posts steady quarterly results in line with analyst expectations",
+    "sentiment_score": 6.4,
+    "event_type": "Financial Performance",
+    "impact_score": 2.4,
+    "sentiment_label": "Positive",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 5,
+      "sentiment_extremity": 1.0,
+      "keyword_severity": 0
+    }
+  },
+  {
+    "company": "ICICI Bank",
+    "headline": "ICICI Bank reports strong loan growth and improved asset quality",
+    "sentiment_score": 9.5,
+    "event_type": "Financial Performance",
+    "impact_score": 3.6,
+    "sentiment_label": "Positive",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 5,
+      "sentiment_extremity": 4.5,
+      "keyword_severity": 0
+    }
+  },
+  {
+    "company": "Yes Bank",
+    "headline": "Rating agency downgrades Yes Bank amid fears of loan defaults and liquidity crisis",
+    "sentiment_score": 1.4,
+    "event_type": "Financial Performance",
+    "impact_score": 7.7,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": true,
+    "severity_keywords": [
+      "crisis",
+      "defaults",
+      "downgrades"
+    ],
+    "impact_breakdown": {
+      "event_weight": 5,
+      "sentiment_extremity": 9.2,
+      "keyword_severity": 10
+    }
+  },
+  {
+    "company": "Zomato",
+    "headline": "Zomato launches new quick-delivery service across 20 more cities",
+    "sentiment_score": 7.1,
+    "event_type": "Product Launch",
+    "impact_score": 1.8,
+    "sentiment_label": "Positive",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 3,
+      "sentiment_extremity": 1.8,
+      "keyword_severity": 0
+    }
+  },
+  {
+    "company": "Global Markets",
+    "headline": "Sanctions imposed on major exporter trigger fears of global supply chain disruption",
+    "sentiment_score": 1.6,
+    "event_type": "Geopolitical",
+    "impact_score": 8.4,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": true,
+    "severity_keywords": [
+      "disruption",
+      "sanctions"
+    ],
+    "impact_breakdown": {
+      "event_weight": 9,
+      "sentiment_extremity": 8.8,
+      "keyword_severity": 7
+    }
+  },
+  {
+    "company": "Tata Steel",
+    "headline": "Tata Steel faces plant shutdown after port strike disrupts raw material supply",
+    "sentiment_score": 2.3,
+    "event_type": "Supply Chain",
+    "impact_score": 6.2,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": false,
+    "severity_keywords": [
+      "shutdown",
+      "strike"
+    ],
+    "impact_breakdown": {
+      "event_weight": 6,
+      "sentiment_extremity": 7.2,
+      "keyword_severity": 5
+    }
+  },
+  {
+    "company": "TCS",
+    "headline": "TCS wins multi-year digital transformation contract worth  million",
+    "sentiment_score": 8.5,
+    "event_type": "Financial Performance",
+    "impact_score": 3.2,
+    "sentiment_label": "Positive",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 5,
+      "sentiment_extremity": 3.3,
+      "keyword_severity": 0
+    }
+  },
+  {
+    "company": "Indian Economy",
+    "headline": "Government announces new GST rules and tighter regulatory framework for fintech firms",
+    "sentiment_score": 5.5,
+    "event_type": "Regulatory",
+    "impact_score": 3.2,
+    "sentiment_label": "Neutral",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 8,
+      "sentiment_extremity": 0.0,
+      "keyword_severity": 0
+    }
+  },
+  {
+    "company": "SBI",
+    "headline": "SBI shares slump as bad loans rise sharply and quarterly profit falls 25%",
+    "sentiment_score": 2.7,
+    "event_type": "Financial Performance",
+    "impact_score": 4.9,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": false,
+    "severity_keywords": [
+      "slump"
+    ],
+    "impact_breakdown": {
+      "event_weight": 5,
+      "sentiment_extremity": 6.2,
+      "keyword_severity": 3
+    }
+  },
+  {
+    "company": "Paytm",
+    "headline": "RBI bans Paytm Payments Bank from onboarding new customers over compliance failures",
+    "sentiment_score": 2.1,
+    "event_type": "Regulatory",
+    "impact_score": 6.6,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": false,
+    "severity_keywords": [
+      "bans"
+    ],
+    "impact_breakdown": {
+      "event_weight": 8,
+      "sentiment_extremity": 7.6,
+      "keyword_severity": 3
+    }
+  },
+  {
+    "company": "Global Markets",
+    "headline": "Recession fears grow as GDP contracts for second straight quarter",
+    "sentiment_score": 1.8,
+    "event_type": "Macroeconomic",
+    "impact_score": 7.6,
+    "sentiment_label": "Negative",
+    "stress_test_triggered": true,
+    "severity_keywords": [
+      "contracts",
+      "recession"
+    ],
+    "impact_breakdown": {
+      "event_weight": 8,
+      "sentiment_extremity": 8.2,
+      "keyword_severity": 6
+    }
+  },
+  {
+    "company": "Bharti Airtel",
+    "headline": "Bharti Airtel completes merger of two regional subsidiaries",
+    "sentiment_score": 7.1,
+    "event_type": "Merger/Acquisition",
+    "impact_score": 3.0,
+    "sentiment_label": "Positive",
+    "stress_test_triggered": false,
+    "severity_keywords": [],
+    "impact_breakdown": {
+      "event_weight": 6,
+      "sentiment_extremity": 1.8,
+      "keyword_severity": 0
+    }
+  }
+]
