@@ -4,6 +4,7 @@
 **College Email ID:** [hima.24bce10633@vitbhopal.ac.in]
 **College / Campus:** VIT Bhopal University
 **Demo Video Link:** https://youtu.be/6XBeXS6_SW4?si=slWE46omuLbArPBU
+**Demo Link:** https://finriskai-t6vdjf5gwvr8gov3vv9vny.streamlit.app
 
 > **Important:** every shock percentage, event weight and severity score in this project is a **prototype assumption** chosen for demonstration. They are **not real market predictions**, and nothing here is financial advice.
 
